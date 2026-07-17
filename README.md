@@ -120,23 +120,20 @@
 
 ---
 
-# 🟡 Pacman Contribution
+## 🟡 Pacman Contribution
 
 <p align="center">
-
 <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/dist/pacman-contribution-graph-dark.svg">
 
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/dist/pacman-contribution-graph.svg">
 
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pacman-contribution-graph.svg">
-
-<img alt="Pacman Contribution"
-src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pacman-contribution-graph.svg">
-
+  <img
+    alt="Pacman Contribution"
+    src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/dist/pacman-contribution-graph.svg">
 </picture>
-
 </p>
 
 ---
