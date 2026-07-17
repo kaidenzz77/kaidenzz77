@@ -110,12 +110,10 @@
 
 ---
 
-# 🐍 Snake Contribution
+## 🐍 Snake Contribution
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
 ---
