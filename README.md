@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:38BDF8&text=Muhammad%20Ardiansyah&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Web%20Developer%20|%20UI/UX%20Designer%20|%20Python%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Surya%20Nugraha%20Aji%20Ardhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20UI/UX%20Designer%20•%20Python%20Developer&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub!;Web+Developer;UI%2FUX+Designer;Python+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Surya+Nugraha+Aji+Ardhani;Web+Developer;UI/UX+Designer;Python+Developer;Always+Learning+New+Things;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 🎨 UI/UX Designer
 
-🐍 Learning Python & Backend Development
+🐍 Learning Python Development
 
 🗄️ Database Enthusiast (MySQL)
 
-🌱 Currently learning Laravel & Flask
+🌱 Currently Learning Laravel & Flask
 
-⚡ I enjoy building useful applications that solve real-world problems.
+🚀 Love Building Modern Websites & Applications
 
 ---
 
@@ -48,29 +48,11 @@
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=bootstrap,flask,laravel"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,laravel,flask,git,github,vscode,figma"/>
 
 </p>
 
@@ -116,15 +98,15 @@
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
+|---------|-------------|
 | 🍽️ PAWON | Restaurant Ordering Website |
 | ♻️ Bank Sampah | Waste Management Information System |
-| 💰 Payroll App | Employee Salary Calculator using Python |
-| 📚 UI/UX E-Book | Mobile UI/UX Prototype |
-| 🛒 Web Programming | HTML CSS JavaScript Project |
+| 💰 Payroll App | Employee Salary Calculator |
+| 📚 UI/UX Design | Mobile App Prototype |
+| 🌐 Web Programming | HTML CSS JavaScript Project |
 
 ---
 
@@ -140,6 +122,8 @@
 
 # 🟡 Pacman Contribution
 
+<p align="center">
+
 <picture>
 
 <source media="(prefers-color-scheme: dark)"
@@ -148,17 +132,20 @@ srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pa
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pacman-contribution-graph.svg">
 
-<img
-alt="Pacman Contribution"
+<img alt="Pacman Contribution"
 src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pacman-contribution-graph.svg">
 
 </picture>
 
+</p>
+
 ---
+
+# 👀 Visitor Counter
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=kaidenzz77&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kaidenzz77&style=for-the-badge&color=blue)
 
 </div>
 
@@ -166,8 +153,8 @@ src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/pacma
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### 💙 Thanks For Visiting My Profile 💙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
 
 </div>
