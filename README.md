@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Surya%20Nugraha%20Aji%20Ardhani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20•%20UI/UX%20Designer%20•%20Python%20Developer&descAlignY=58"/>
+<img src="./assets/banner3D.png" width="100%" alt="Surya Nugraha Aji Ardhani Banner">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Surya+Nugraha+Aji+Ardhani;Web+Developer;UI/UX+Designer;Python+Developer;Always+Learning+New+Things;Welcome+To+My+GitHub!)](https://git.io/typing-svg)
 
