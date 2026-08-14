@@ -12,36 +12,38 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 Informatics Student
+🎓 Informatics Student with a passion for building modern web applications
 
-💻 Passionate about Web Development
+💻 Focused on Web Development and Backend Engineering
 
-🎨 UI/UX Designer
+🎨 Interested in UI/UX Design and creating intuitive user experiences
 
-🐍 Learning Python Development
+🐍 Exploring Python for application development and automation
 
-🗄️ Database Enthusiast (MySQL)
+🗄️ Working with relational databases, especially MySQL
 
-🌱 Currently Learning Laravel & Flask
+🌱 Currently learning Laravel, Flask, and better software architecture
 
-🚀 Love Building Modern Websites & Applications
+🚀 Building projects to turn ideas into practical applications
+
+<br clear="right">
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/kaidenzz77">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:suryaardhn@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -50,11 +52,11 @@
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,laravel,flask,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bootstrap,laravel,flask,git,github,vscode,figma">
 
-</p>
+</div>
 
 ---
 
@@ -110,29 +112,36 @@
 
 ---
 
-## 🐍 Snake Contribution
+# 🐍 Snake Contribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation">
+
+</div>
 
 ---
 
-## 🟡 Pacman Contribution
+# 🟡 Pacman Contribution
 
-<p align="center">
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/dist/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
+  <source
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/dist/pacman-contribution-graph.svg">
 
   <img
     alt="Pacman Contribution"
     src="https://raw.githubusercontent.com/kaidenzz77/kaidenzz77/pacman-output/dist/pacman-contribution-graph.svg">
+
 </picture>
-</p>
+
+</div>
 
 ---
 
@@ -140,7 +149,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=kaidenzz77&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=kaidenzz77&style=for-the-badge&color=blue" alt="Visitor Counter">
 
 </div>
 
@@ -150,6 +159,6 @@
 
 ### 💙 Thanks For Visiting My Profile 💙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30">
 
 </div>
